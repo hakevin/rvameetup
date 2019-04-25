@@ -1,1 +1,1 @@
-RVA Meetup Repo
+https://www.baeldung.com/jhipster-microservices
