@@ -1,1 +1,2 @@
-https://www.baeldung.com/jhipster-microservices
+https://blog.heroku.com/bootstrapping_your_microservices_architecture_with_jhipster_and_spring
+
